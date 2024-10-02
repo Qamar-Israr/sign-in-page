@@ -47,7 +47,6 @@ body {
 }
 .signup-body p label {
     display: block;
-    text-shadow: 1px 1px 1px #ff4596;
 }
 .signup-body p input {
     width: 100%;
@@ -71,7 +70,7 @@ body {
     background-color: #ff4596;
     border: none;
     color: black;
-    text-shadow: 1px 1px 1px #010101;
+    text-shadow: 1px 1px #010101;
 }
 .signup-footer p{
     color: black;
@@ -126,7 +125,7 @@ body {
         position: absolute;
     }
     .c1 {
-        top: 70px;
+        top: 100px;
         left: 50px;
         background: linear-gradient(to top left,#ff4596, #fdebf4);
     
