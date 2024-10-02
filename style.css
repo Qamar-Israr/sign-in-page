@@ -65,7 +65,7 @@ body {
     border: none;
     color: white;
     cursor: pointer;
-    text-shadow: 1px 1px 1px #ff4596;
+    text-shadow: 1px 1px #ff4596;
 }
 .signup-body p input[type="submit"]:hover {
     background-color: #ff4596;
@@ -109,7 +109,7 @@ body {
 
 @media screen and (max-width: 600px) {
     .inner-box {
-        width: 300px;
+        width: 320px;
     }
     .circle1 {
         width: 100px;
@@ -126,7 +126,7 @@ body {
         position: absolute;
     }
     .c1 {
-        top: 55px;
+        top: 70px;
         left: 50px;
         background: linear-gradient(to top left,#ff4596, #fdebf4);
     
